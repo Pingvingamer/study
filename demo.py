@@ -4,6 +4,6 @@
 
 num = int(input("Adj meg egy számot: "))
 if (num % 2) == 0:
-   print("{0} párs".format(num))
+   print("{0} páros".format(num))
 else:
    print("{0} páratlan".format(num))
